@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dradya.github.io/sitemap.xml
